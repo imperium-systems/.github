@@ -1,0 +1,64 @@
+Imperium Proprietary License
+
+Copyright (c) 2026 Victor Jost. All rights reserved.
+
+This license applies to Imperium, including every system, its source code,
+assets, documentation and every engine implementation (Roblox and any other)
+published under the imperium-systems organisation (the "Software").
+
+1. Ownership
+
+   The Software is the exclusive property of Victor Jost (the "Owner"). It is
+   licensed, not sold. Any right not expressly granted in this license is
+   reserved by the Owner.
+
+2. Without a purchase
+
+   Being able to view the Software, including in a public repository, does
+   not grant any right to use it. Without a purchased license you may not
+   copy, modify, merge, publish, distribute, sublicense, sell, or use the
+   Software, in whole or in part, in any project, commercial or not.
+
+3. With a purchase
+
+   A person or organisation that has purchased a license for one or more
+   systems from the Owner (the "Licensee") may:
+
+   a. use the purchased systems in their own projects, including commercial
+      projects;
+   b. modify the purchased systems for use in those projects;
+   c. distribute the purchased systems only as an integrated, non-extractable
+      part of those projects (for example, inside a published game).
+
+   The Licensee may not:
+
+   d. resell, sublicense, share or redistribute the purchased systems, as
+      source code or as a standalone asset, modified or not;
+   e. publish the source code of the purchased systems;
+   f. use the Software to build a competing system library or asset pack.
+
+   The exact scope of a purchase (which systems, how many projects, duration)
+   is defined at the time of purchase. Where the terms of a purchase differ
+   from this license, the terms of the purchase prevail.
+
+4. Contributions
+
+   By submitting a contribution (code, documentation, assets, or any other
+   material) to any imperium-systems repository, you grant the Owner a
+   perpetual, worldwide, irrevocable, royalty-free right to use, modify,
+   distribute and sublicense that contribution as part of the Software, and
+   you confirm that you have the right to grant it.
+
+5. Termination
+
+   Any breach of this license terminates the rights granted under it
+   immediately and without notice.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   ITS USE.
+
+Licensing and purchases: victor.jost@epitech.eu
