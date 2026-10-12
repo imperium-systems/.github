@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/imperium-banner-github.png" alt="Imperium — One system for all your projects" width="100%">
+  <img src="../assets/banner/imperium-banner-github.png" alt="Imperium — One system for all your projects" width="100%">
 </p>
 
 **Imperium** is a suite of 130 game systems, organised in 12 families modelled on the architecture of a game engine. Each system bears the Latin name of its role, and that name stays the same from one engine to the next: `Lux` is lighting, `Lictor` is the anticheat, `Tabularius` saves player data.
