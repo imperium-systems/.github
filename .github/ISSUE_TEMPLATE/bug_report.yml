@@ -1,0 +1,46 @@
+name: Bug report
+description: Something in a system does not work as expected.
+labels: ["bug"]
+body:
+  - type: input
+    id: system
+    attributes:
+      label: System
+      description: The affected system, for example `Hora` or `Lictor`.
+    validations:
+      required: true
+  - type: dropdown
+    id: engine
+    attributes:
+      label: Engine
+      options:
+        - Roblox
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Imperium version
+      placeholder: e.g. 0.3.1
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: What you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Call `Hora.SetTime(18)`
+        2. ...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or errors
+      render: text

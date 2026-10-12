@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/orgs/imperium-systems/discussions
+    about: Ask how to use a system or propose a new one in GitHub Discussions.
+  - name: Security vulnerability
+    url: https://github.com/imperium-systems/.github/blob/main/SECURITY.md
+    about: Never report a vulnerability publicly. Follow the security policy.
+  - name: Licensing and purchases
+    url: mailto:victor.jost@epitech.eu
+    about: Buy a license or ask about the terms of use.
